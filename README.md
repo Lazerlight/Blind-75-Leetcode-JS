@@ -8,3 +8,5 @@ Link: https://leetcode.com/list/xi4ci4ig/
 2 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 7 - https://leetcode.com/problems/valid-parentheses/
+
+30 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
