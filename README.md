@@ -10,3 +10,5 @@ Link: https://leetcode.com/list/xi4ci4ig/
 7 - https://leetcode.com/problems/valid-parentheses/
 
 30 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+32 - https://leetcode.com/problems/valid-palindrome/
