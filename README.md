@@ -15,4 +15,6 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 32 - https://leetcode.com/problems/valid-palindrome/
 
+51 - https://leetcode.com/problems/invert-binary-tree/
+
 56 - https://leetcode.com/problems/valid-anagram/
