@@ -18,7 +18,7 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 51 - https://leetcode.com/problems/invert-binary-tree/
 
-54 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+53 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 56 - https://leetcode.com/problems/valid-anagram/
 
