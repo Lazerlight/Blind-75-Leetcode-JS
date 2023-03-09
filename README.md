@@ -18,6 +18,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 51 - https://leetcode.com/problems/invert-binary-tree/
 
+54 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
 56 - https://leetcode.com/problems/valid-anagram/
 
 
@@ -44,5 +46,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 8 - https://leetcode.com/problems/binary-search/
 
 9 - https://leetcode.com/problems/flood-fill/
+
+10 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
