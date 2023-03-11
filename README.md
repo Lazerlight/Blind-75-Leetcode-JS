@@ -49,4 +49,6 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 10 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
+11 - https://leetcode.com/problems/balanced-binary-tree/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
