@@ -51,4 +51,6 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 11 - https://leetcode.com/problems/balanced-binary-tree/
 
+14 - https://leetcode.com/problems/first-bad-version/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
