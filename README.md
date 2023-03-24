@@ -53,4 +53,6 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 14 - https://leetcode.com/problems/first-bad-version/
 
+15 - https://leetcode.com/problems/ransom-note/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
