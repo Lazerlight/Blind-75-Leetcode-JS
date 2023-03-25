@@ -51,6 +51,10 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 11 - https://leetcode.com/problems/balanced-binary-tree/
 
+12 - 
+
+13 - https://leetcode.com/problems/implement-queue-using-stacks/
+
 14 - https://leetcode.com/problems/first-bad-version/
 
 15 - https://leetcode.com/problems/ransom-note/
