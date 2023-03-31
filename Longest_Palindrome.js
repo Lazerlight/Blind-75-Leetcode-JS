@@ -5,16 +5,13 @@ Letters are case sensitive, for example, "Aa" is not considered a palindrome her
 // My Solution 
 
 var longestPalindrome = function (s) {
-  let array = Array.from(s);
   let map = new Map();
   let extraChar = 0;
   let palindrome = 0;
 
-  array.forEach((e) => {
+  Array.from(s).forEach((e) => {
     let countChars = map.get(e) || 0;
-    if (array.includes(e)) {
-      map.set(e, countChars + 1);
-    }
+    map.set(e, countChars + 1);
   });
 
   for (let i = 0; i < map.size; i++) {
