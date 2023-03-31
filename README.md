@@ -16,6 +16,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 32 - https://leetcode.com/problems/valid-palindrome/
 
+36 - https://leetcode.com/problems/linked-list-cycle/
+
 51 - https://leetcode.com/problems/invert-binary-tree/
 
 53 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
@@ -51,7 +53,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 11 - https://leetcode.com/problems/balanced-binary-tree/
 
-12 - 
+12 - https://leetcode.com/problems/linked-list-cycle/
 
 13 - https://leetcode.com/problems/implement-queue-using-stacks/
 
