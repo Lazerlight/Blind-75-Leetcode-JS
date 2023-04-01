@@ -12,6 +12,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 8 - https://leetcode.com/problems/merge-two-sorted-lists/
 
+20 - https://leetcode.com/problems/climbing-stairs/
+
 30 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 32 - https://leetcode.com/problems/valid-palindrome/
@@ -60,6 +62,8 @@ Link: https://www.techinterviewhandbook.org/grind75
 14 - https://leetcode.com/problems/first-bad-version/
 
 15 - https://leetcode.com/problems/ransom-note/
+
+16 - https://leetcode.com/problems/climbing-stairs/
 
 17 - https://leetcode.com/problems/longest-palindrome/
 
