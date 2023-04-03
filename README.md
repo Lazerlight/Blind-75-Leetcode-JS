@@ -20,6 +20,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 36 - https://leetcode.com/problems/linked-list-cycle/
 
+44 - https://leetcode.com/problems/reverse-linked-list/
+
 51 - https://leetcode.com/problems/invert-binary-tree/
 
 53 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
@@ -66,5 +68,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 16 - https://leetcode.com/problems/climbing-stairs/
 
 17 - https://leetcode.com/problems/longest-palindrome/
+
+18 - https://leetcode.com/problems/reverse-linked-list/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
