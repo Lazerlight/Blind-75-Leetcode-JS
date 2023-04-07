@@ -71,4 +71,6 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 18 - https://leetcode.com/problems/reverse-linked-list/
 
+19 - https://leetcode.com/problems/majority-element/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
