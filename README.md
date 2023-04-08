@@ -73,4 +73,6 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 19 - https://leetcode.com/problems/majority-element/
 
+20 - https://leetcode.com/problems/add-binary/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
