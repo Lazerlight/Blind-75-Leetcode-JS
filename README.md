@@ -14,6 +14,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 20 - https://leetcode.com/problems/climbing-stairs/
 
+28 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 30 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 32 - https://leetcode.com/problems/valid-palindrome/
@@ -78,5 +80,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 21 - 
 
 22 - https://leetcode.com/problems/middle-of-the-linked-list/
+
+23 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
