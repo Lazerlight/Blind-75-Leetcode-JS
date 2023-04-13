@@ -24,6 +24,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 44 - https://leetcode.com/problems/reverse-linked-list/
 
+50 - https://leetcode.com/problems/contains-duplicate/
+
 51 - https://leetcode.com/problems/invert-binary-tree/
 
 53 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
@@ -82,5 +84,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 22 - https://leetcode.com/problems/middle-of-the-linked-list/
 
 23 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+24 - https://leetcode.com/problems/contains-duplicate/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
