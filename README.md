@@ -79,7 +79,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 20 - https://leetcode.com/problems/add-binary/
 
-21 - 
+21 - https://leetcode.com/problems/diameter-of-binary-tree/
 
 22 - https://leetcode.com/problems/middle-of-the-linked-list/
 
