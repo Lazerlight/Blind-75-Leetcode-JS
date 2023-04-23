@@ -14,6 +14,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 14 - https://leetcode.com/problems/maximum-subarray/
 
+18 - https://leetcode.com/problems/insert-interval/
+
 20 - https://leetcode.com/problems/climbing-stairs/
 
 28 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
@@ -90,6 +92,8 @@ Link: https://www.techinterviewhandbook.org/grind75
 24 - https://leetcode.com/problems/contains-duplicate/
 
 25 - https://leetcode.com/problems/maximum-subarray/
+
+26 - https://leetcode.com/problems/insert-interval/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
