@@ -95,6 +95,8 @@ Link: https://www.techinterviewhandbook.org/grind75
 
 26 - https://leetcode.com/problems/insert-interval/
 
+28 - https://leetcode.com/problems/k-closest-points-to-origin/
+
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 72 - https://leetcode.com/problems/basic-calculator/
