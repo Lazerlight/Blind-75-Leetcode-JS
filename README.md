@@ -8,6 +8,8 @@ Link: https://leetcode.com/list/xi4ci4ig/
 
 2 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
+5 - https://leetcode.com/problems/3sum/
+
 7 - https://leetcode.com/problems/valid-parentheses/
 
 8 - https://leetcode.com/problems/merge-two-sorted-lists/
@@ -98,5 +100,7 @@ Link: https://www.techinterviewhandbook.org/grind75
 28 - https://leetcode.com/problems/k-closest-points-to-origin/
 
 29 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+30 - https://leetcode.com/problems/3sum/
 
 72 - https://leetcode.com/problems/basic-calculator/
