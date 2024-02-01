@@ -9,22 +9,24 @@ Every close bracket has a corresponding open bracket of the same type. */
 // My Solution: 
 
 var isValid = function (s) {
-  let stack = [];
-  let bracketPairs = {
+  if (s.length % 2 != 0) {
+    return false;
+  }
+  let openBracketsContainer = [];
+  const openBrackets = {
     "(": ")",
     "{": "}",
     "[": "]",
   };
-  for (let i = 0; i < s.length; i++) {
-    let char = s[i];
-    if (bracketPairs[char]) {
-      stack.push(char);
+  for (let bracket of s) {
+    if (bracket in openBrackets) {
+      openBracketsContainer.push(bracket);
     } else {
-      let lastOpenBracket = stack.pop();
-      if (bracketPairs[lastOpenBracket] !== char) {
+      let lastOpenBracket = openBracketsContainer.pop();
+      if (openBrackets[lastOpenBracket] != bracket) {
         return false;
       }
     }
   }
-  return stack.length === 0;
+  return openBracketsContainer.length === 0;
 };
