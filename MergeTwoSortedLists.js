@@ -6,25 +6,14 @@ Return the head of the merged linked list. */
 
 // My Solution:
 
-var mergeTwoLists = function (list1, list2) {
-  let mergedList = new ListNode(-1);
-  let current = mergedList;
-
-  while (list1 !== null && list2 !== null) {
-    if (list1.val < list2.val) {
-      current.next = list1;
-      list1 = list1.next;
-    } else {
-      current.next = list2;
-      list2 = list2.next;
+var mergeTwoLists = function(list1, list2) {
+    if (!list1 || !list2) return list1 || list2
+    if (list1.val < list2.val){
+        list1.next = mergeTwoLists(list1.next, list2)
+        return list1
     }
-    current = current.next;
-  }
-
-  if (list1 !== null) {
-    current.next = list1;
-  } else {
-    current.next = list2;
-  }
-  return mergedList.next;
+    else{
+        list2.next = mergeTwoLists(list1, list2.next)
+        return list2
+    }
 };
