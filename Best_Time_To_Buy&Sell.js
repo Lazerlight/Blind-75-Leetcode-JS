@@ -6,22 +6,20 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 
 // My Solution: 
 
-var maxProfit = function (prices) {
-  let buyPrice = prices[0];
-  let sellPrice = 0;
+var maxProfit = function(prices) { 
+    let lowestVal = prices[0]
+    let Profit = 0
 
-  for (let day = 1; day < prices.length; day++) {
-    let dailyPrice = prices[day];
-
-    if (dailyPrice < buyPrice) {
-      buyPrice = dailyPrice;
-    } else {
-      let potentialProfit = dailyPrice - buyPrice;
-      if (potentialProfit > sellPrice) {
-        sellPrice = potentialProfit;
-      }
+    for (let price of prices){
+        if(price < lowestVal){
+            lowestVal = price   
+        }
+        else{
+            let profit = price - lowestVal
+            if(profit > Profit){
+                Profit = profit
+            }
+        }
     }
-  }
-
-  return sellPrice;
+    return Profit
 };
